@@ -1,30 +1,27 @@
-**Languages and Tools:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+<h1 align="center">
+  Hi there 👋
+</h1>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=TypeScript&logoColor=black)
+<a href="https://github.com/acccccccb/about-me">
+    <img height=150 align="center" src=https://github-readme-stats.vercel.app/api?username=acccccccb&theme=default&show_icons=true&count_private=true" alt="My github stats" />
+  </a>
 
-![Vue](https://img.shields.io/badge/Vue-F7DF1E?style=for-the-badge&logo=Vue.js&logoColor=black)
+  <a href="https://github.com/acccccccb/about-me">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acccccccb&show_icons=true&count_private=true&layout=compact" alt="My github stats" />
+  </a>
 
-![React](https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logo=React&logoColor=black)
 
-![Node](https://img.shields.io/badge/Node-F7DF1E?style=for-the-badge&logo=Node.js&logoColor=black)
-
-![Php](https://img.shields.io/badge/Php-F7DF1E?style=for-the-badge&logo=Php&logoColor=black)
+# ✨Tech Stack:
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="Javascript">
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="Javascript">
+<img src="https://img.shields.io/badge/TypeScript-294E80?style=for-the-badge&logo=TypeScript&logoColor=ffffff" alt="TypeScript">
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<img src="https://img.shields.io/badge/Vue-42b983?style=for-the-badge&logo=Vue.js&logoColor=ffffff" alt="Vue">
 
-<a href="https://github.com/acccccccb/about-me">
-  <img align="center" src=https://github-readme-stats.vercel.app/api?username=acccccccb&theme=default&show_icons=true&count_private=true" alt="My github stats" />
-</a>
+<img src="https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=React&logoColor=61dafb" alt="React">
 
-<a href="https://github.com/acccccccb/about-me">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acccccccb&show_icons=true&count_private=true&layout=compact" alt="My github stats" />
-</a>
+<img src="https://img.shields.io/badge/Node-43853d?style=for-the-badge&logo=Node.js&logoColor=ffffff" alt="Node">
+
+<img src="https://img.shields.io/badge/Php-8892BF?style=for-the-badge&logo=Php&logoColor=ffffff" alt="Php">
+
