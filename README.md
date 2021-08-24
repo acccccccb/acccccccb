@@ -3,13 +3,17 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=TypeScript&logoColor=black)
 
-![Vue](https://img.shields.io/badge/Vue-F7DF1E?style=for-the-badge&logo=Vue&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue-F7DF1E?style=for-the-badge&logo=Vue.js&logoColor=black)
 
 ![React](https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logo=React&logoColor=black)
 
-![Node](https://img.shields.io/badge/Node-F7DF1E?style=for-the-badge&logo=Node&logoColor=black)
+![Node](https://img.shields.io/badge/Node-F7DF1E?style=for-the-badge&logo=Node.js&logoColor=black)
 
 ![Php](https://img.shields.io/badge/Php-F7DF1E?style=for-the-badge&logo=Php&logoColor=black)
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="Javascript">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="Javascript">
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
