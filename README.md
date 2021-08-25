@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there 👋
+  Hi there 👋👨‍💻
 </h1>
 
 <div align="center">
@@ -24,11 +24,10 @@
 
   ## I'm an coder
 
-- 🔭 I'm currently a post-doctoral
-- 🌱 I’m currently learning about clouds and climate
-- 🥅 2021 Goals: get a permanent job 🤣
-- ⚡ Fun facts: I love running and playing guitar
-
+- 😉喜欢折腾,喜欢项目完成后的成就感;
+- 😎热爱前端开发，热爱前端技术;
+- 👍希望每年，我都能在这个页面添加一些新的技能和想法🎁
+  
 </div>
 
 
