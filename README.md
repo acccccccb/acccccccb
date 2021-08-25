@@ -2,13 +2,13 @@
   Hi there 👋👨‍💻
 </h1>
 
-<div align="center">
+<div align="center" style="margin-top: 10px;">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/acccccccb?style=social">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/acccccccb?style=social">
 </div>
 
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <a href="https://github.com/acccccccb/about-me">
     <img height="150" align="center" src=https://github-readme-stats.vercel.app/api?username=acccccccb&theme=default&show_icons=true&include_all_commits=true&count_private=true" alt="My github stats" />
   </a>
@@ -17,10 +17,15 @@
     <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acccccccb&show_icons=true&layout=compact&locale=en" alt="Most Used Languages" />
   </a>
 </div>
+<div align="center" style="margin-top: 20px;">
 
-<h1 align="center">
-  ✨Tech Stack:
-</h1>
+  *更多代码提交在码云和工蜂，私有项目也不会被统计*
+
+</div>
+
+<h2 align="center" style="margin: 30px auto 10px">
+  ✨技术栈
+</h2>
 <div align="center">
   <img style="padding: 3px;" src="https://img.shields.io/badge/JavaScript-F7DF1E?&logo=JavaScript&logoColor=black" alt="Javascript">
   <img style="padding: 3px;" src="https://img.shields.io/badge/TypeScript-294E80?&logo=TypeScript&logoColor=ffffff" alt="TypeScript">
@@ -31,9 +36,9 @@
 </div>
 
 
-<h1 align="center">
-  ✨Tools:
-</h1>
+<h2 align="center" style="margin: 30px auto 10px">
+  🔨工具
+</h2>
 <div align="center">
 <img style="padding: 3px;" src="https://img.shields.io/badge/PhpStorm-9900ff?&logo=PhpStorm&logoColor=ffffff" alt="PhpStorm">
   <img style="padding: 3px;" src="https://img.shields.io/badge/Docker-2697ed?&logo=Docker&logoColor=ffffff" alt="Docker">
@@ -43,16 +48,20 @@
 
 
 
-<h1 align="center">
-  👨About Me:
-</h1>
+<h2 align="center" style="margin: 30px auto 10px">
+  👨关于我
+</h2>
 
-<div align="left">
+<div align="center">
 
-- 👿讨厌写重复的代码😠
-- ⏳喜欢折腾,喜欢项目完成后的成就感;
-- 😎热爱前端开发，热爱前端技术;
-- 👍希望每年，我都能在这个页面添加一些新的技能和想法🎁
+👿讨厌写重复的代码😠
+
+⏳喜欢折腾,喜欢项目完成后的成就感
+
+😎热爱前端开发，热爱前端技术
+
+👍希望每年，我都能在这个页面添加一些新的技能和想法🎁
+
   
 </div>
 
